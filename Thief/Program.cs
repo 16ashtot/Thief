@@ -31,7 +31,7 @@ namespace Thief
             Console.WriteLine("list: " +d1+d2+d3+d4 + ", " +d1+d2+d4+d3+ ", " +d1+d3+d2+d4+ ", " +d1+d3+d4+d2+ ", " +d1+d4+d3+d2+ ", " +d1+d4+d2+d3+ 
                 ", " +d2+d1+d3+d4+ ", " +d2+d1+d4+d3+ ", " +d2+d3+d1+d4+ ", " +d2+d3+d4+d1+ ", " +d2+d4+d3+d1+ ", " +d2+d4+d1+d3+ 
                 ", " +d3+d1+d2+d4+ ", " +d3+d1+d4+d2+ ", " +d3+d2+d1+d4+ ", " +d3+d2+d4+d1+ ", " +d3+d4+d1+d2+ ", " +d3+d4+d2+d1+ 
-                ", " +d4+d3+d2+d1+ ", " +d4+d3+d1+d2+ ", " +d4+d2+d3+d1+ ", " +d4+d2+d1+d3+ ", " +d4+1+d2+d3+ ", " +d4+d1+d3+d2);
+                ", " +d4+d3+d2+d1+ ", " +d4+d3+d1+d2+ ", " +d4+d2+d3+d1+ ", " +d4+d2+d1+d3+ ", " +d4+d1+d2+d3+ ", " +d4+d1+d3+d2);
             Console.ReadLine();
 
         }
